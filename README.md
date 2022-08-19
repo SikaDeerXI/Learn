@@ -1,2 +1,2 @@
-# Study
+# Learn
 A record of learning.
